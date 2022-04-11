@@ -1,2 +1,2 @@
-# datagumbo
+# DG
 Coding exercise
